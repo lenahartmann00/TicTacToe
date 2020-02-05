@@ -1,5 +1,6 @@
 # TicTacToe
 
+![Screenshot](tictactoe.png)
 Play TicTacToe with a friend on your phone with this android app. 
 
 # What I learned
